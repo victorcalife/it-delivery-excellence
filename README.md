@@ -1,8 +1,8 @@
 # 🚀 IT Delivery Excellence
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Ops Level](https://img.shields.io/badge/ops%20maturity-advanced-critical)
-![Focus](https://img.shields.io/badge/focus-delivery%20%26%20service%20quality-blueviolet)
-![Automation](https://img.shields.io/badge/automation-enabled-blue)
+![Focus](https://img.shields.io/badge/focus-performance%20%26%20quality-blueviolet)
+![Method](https://img.shields.io/badge/methods-lean%20ops%20%7C%20SLA%20driven-critical)
+![Updated](https://img.shields.io/badge/updated-Jun--2025-lightgrey)
 
 A curated guide to boost the quality, consistency, and impact of IT service and project deliveries. This repository offers templates, KPIs, routines, and frameworks used by high-performance teams.
 
